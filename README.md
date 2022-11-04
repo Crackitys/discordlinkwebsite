@@ -1,1 +1,2 @@
 # discordlinkwebsite
+https://discord.com
